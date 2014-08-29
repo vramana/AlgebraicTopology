@@ -22,11 +22,6 @@ It is not hard to see that the first problem has a positive solution and the sec
 
 We next describe some features of the extension problem that holds for many topological problems (we use a term from logic for this that can be safely ignored).
 
-### First order topological problems:
-
-* These are formulated in terms of _topological spaces_ and _continuous functions_ (which we call _maps_) : both the data and unknowns are in terms of these.
-* The typical conditions are equalities between various compositions of functions.
-* Conditions may also be in terms of topological properties of the spaces.
 
 ## More topological problems
 
